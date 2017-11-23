@@ -9,6 +9,7 @@ namespace BankingSite.IntegrationTests
     {
 
         [Test]
+        [Category("smoke")]
         public void ShouldValidateApplicationDetails()
         {
             var applicant = new CreditCardApplication

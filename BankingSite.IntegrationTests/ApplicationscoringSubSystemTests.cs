@@ -12,6 +12,7 @@ namespace BankingSite.IntegrationTests
     {
 
         [Test]
+        [Category("smoke")]
         public void ShouldScoreApplicationCorrectly()
         {
 

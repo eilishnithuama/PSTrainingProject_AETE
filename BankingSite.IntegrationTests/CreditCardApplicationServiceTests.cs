@@ -28,11 +28,5 @@ namespace BankingSite.IntegrationTests
 
         }
 
-        [Test]
-        public void ShouldSumbitValidApplication()
-        {
-
-        }
-
     }
 }
