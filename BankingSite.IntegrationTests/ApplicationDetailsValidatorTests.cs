@@ -16,7 +16,7 @@ namespace BankingSite.IntegrationTests
             {
                 ApplicantName = "John",
                 ApplicantAgeInYears = 25,
-                AirlineFrequentFlyerNumber = "C3456789"
+                AirlineFrequentFlyerNumber = "C1234567"
             };
             var sut = new ApplicationDetailsValidator(new AirlineMembershipNumberValidator());
 

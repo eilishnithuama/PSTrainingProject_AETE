@@ -52,9 +52,6 @@
   <ItemGroup>
     <Compile Include="DemoStuff\BrowserDemoHelper.cs" />
     <Compile Include="DemoStuff\DemoCodeForSlides.cs" />
-    <Compile Include="LogicalFunctionalModelStyle\ApplyForCreditCardPage.cs" />
-    <Compile Include="LogicalFunctionalModelStyle\AcceptedPage.cs" />
-    <Compile Include="LogicalFunctionalModelStyle\CreditCardApplicationTests.cs" />
     <Compile Include="PageObjectModelStyle\AcceptedPage.cs" />
     <Compile Include="PageObjectModelStyle\ApplyForCreditCardPage.cs" />
     <Compile Include="PageObjectModelStyle\CreditCardApplicationTests.cs" />

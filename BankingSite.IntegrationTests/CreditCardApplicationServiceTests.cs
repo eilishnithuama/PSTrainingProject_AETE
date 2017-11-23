@@ -14,7 +14,7 @@ namespace BankingSite.IntegrationTests
         {
             var sut = new CreditCardApplicationServiceReference.CreditCardApplicationServiceClient();
 
-            var application = new CreditCardApplication { ApplicantName = "Jack", ApplicantAgeInYears = 27, AirlineFrequentFlyerNumber = "W9876543"};
+            var application = new CreditCardApplication { ApplicantName = "Jack", ApplicantAgeInYears = 27, AirlineFrequentFlyerNumber = "W1234567"};
 
             var results = sut.SubmitApplication(application);
 

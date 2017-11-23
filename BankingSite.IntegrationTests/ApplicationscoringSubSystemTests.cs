@@ -19,7 +19,7 @@ namespace BankingSite.IntegrationTests
             var realCreditCheckerGateway = new CreditCheckerGateway();
             var fakeMainframe = new Mock<IBankMainframeGateway>();
 
-            var application = new CreditCardApplication { ApplicantName = "Maire",ApplicantAgeInYears = 25, AirlineFrequentFlyerNumber = "C3456789" };
+            var application = new CreditCardApplication { ApplicantName = "Maire",ApplicantAgeInYears = 25, AirlineFrequentFlyerNumber = "C1234567" };
 
             fakeMainframe.Setup(x => x.CreateNew(application)).Returns(35);
 
@@ -36,7 +36,7 @@ namespace BankingSite.IntegrationTests
         [Test]
         public void ShouldScoreApplicationCorrectlyInjection()
         {
-            var application = new CreditCardApplication { ApplicantName = "Maire", ApplicantAgeInYears = 25, AirlineFrequentFlyerNumber = "C3456789" };
+            var application = new CreditCardApplication { ApplicantName = "Maire", ApplicantAgeInYears = 25, AirlineFrequentFlyerNumber = "Q1234567" };
             var fakeMainframe = new Mock<IBankMainframeGateway>();
             fakeMainframe.Setup(x => x.CreateNew(application)).Returns(35);
 

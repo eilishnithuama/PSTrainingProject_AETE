@@ -25,3 +25,31 @@ C:\Users\enithuam\Documents\source\Training Projects\BankingSite\BankingSite\bin
 C:\Users\enithuam\Documents\source\Training Projects\BankingSite\BankingSite\bin\System.Web.Http.WebHost.xml
 C:\Users\enithuam\Documents\source\Training Projects\BankingSite\BankingSite\obj\Debug\BankingSite.dll
 C:\Users\enithuam\Documents\source\Training Projects\BankingSite\BankingSite\obj\Debug\BankingSite.pdb
+C:\Git\BankingSite\BankingSite\bin\BankingSite.dll.config
+C:\Git\BankingSite\BankingSite\bin\BankingSite.dll
+C:\Git\BankingSite\BankingSite\bin\BankingSite.pdb
+C:\Git\BankingSite\BankingSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Git\BankingSite\BankingSite\bin\Newtonsoft.Json.dll
+C:\Git\BankingSite\BankingSite\bin\Ninject.dll
+C:\Git\BankingSite\BankingSite\bin\Ninject.Extensions.Conventions.dll
+C:\Git\BankingSite\BankingSite\bin\Ninject.Extensions.Wcf.dll
+C:\Git\BankingSite\BankingSite\bin\Ninject.Web.Common.dll
+C:\Git\BankingSite\BankingSite\bin\System.Net.Http.Formatting.dll
+C:\Git\BankingSite\BankingSite\bin\System.Web.Http.dll
+C:\Git\BankingSite\BankingSite\bin\System.Web.Http.WebHost.dll
+C:\Git\BankingSite\BankingSite\bin\WebActivator.dll
+C:\Git\BankingSite\BankingSite\bin\Newtonsoft.Json.xml
+C:\Git\BankingSite\BankingSite\bin\Ninject.pdb
+C:\Git\BankingSite\BankingSite\bin\Ninject.xml
+C:\Git\BankingSite\BankingSite\bin\Ninject.Extensions.Conventions.pdb
+C:\Git\BankingSite\BankingSite\bin\Ninject.Extensions.Conventions.xml
+C:\Git\BankingSite\BankingSite\bin\Ninject.Extensions.Wcf.pdb
+C:\Git\BankingSite\BankingSite\bin\Ninject.Extensions.Wcf.xml
+C:\Git\BankingSite\BankingSite\bin\Ninject.Web.Common.pdb
+C:\Git\BankingSite\BankingSite\bin\Ninject.Web.Common.xml
+C:\Git\BankingSite\BankingSite\bin\System.Net.Http.Formatting.xml
+C:\Git\BankingSite\BankingSite\bin\System.Web.Http.xml
+C:\Git\BankingSite\BankingSite\bin\System.Web.Http.WebHost.xml
+C:\Git\BankingSite\BankingSite\obj\Debug\BankingSite.csprojResolveAssemblyReference.cache
+C:\Git\BankingSite\BankingSite\obj\Debug\BankingSite.dll
+C:\Git\BankingSite\BankingSite\obj\Debug\BankingSite.pdb
