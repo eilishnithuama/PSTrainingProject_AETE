@@ -26,7 +26,7 @@
         </fieldset>
         
         <fieldset>
-            <legend>Financial Information</legend>
+            <legend>Financial Information:</legend>
             
             <label for="AnnualIncome">Annual Income</label>
             <asp:TextBox runat="server" ID="AnnualIncome"/>
