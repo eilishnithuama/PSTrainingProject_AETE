@@ -57,7 +57,7 @@ namespace BankingSite.UITests.PageObjectModelStyle
             {
                 var applyPage = browser.Page<ApplyForCreditCardPage>();
 
-                applyPage.ApplyForCreditCard(name: "Jason", age: "30", airlineNumber: "BadNumber");
+                applyPage.ApplyForCreditCard(name: "Bob", age: "30", airlineNumber: "BadNumber");
                 
                 Assert.That(browser.Text.Contains("Airline membership number is invalid"));
             }

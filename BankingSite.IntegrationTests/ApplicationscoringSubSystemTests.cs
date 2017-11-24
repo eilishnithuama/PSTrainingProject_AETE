@@ -21,13 +21,12 @@ namespace BankingSite.IntegrationTests
 
             var application = new CreditCardApplication { ApplicantName = "Maire",ApplicantAgeInYears = 25, AirlineFrequentFlyerNumber = "C1234567" };
 
-            fakeMainframe.Setup(x => x.CreateNew(application)).Returns(35);
-
+            fakeMainframe.Setup(x => x.CreateNew(application)).Returns(25);
 
             var sut = new CreditCardApplicationScorer(realCreditCheckerGateway, fakeMainframe.Object);
 
             var result = sut.ScoreApplication(application);
-
+            
             Assert.That(result, Is.Not.Null);
 
 

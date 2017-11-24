@@ -7,7 +7,7 @@
     {
         public int CrdChk(string n)
         {
-            if (n == "Jason")
+            if (n != "Jason")
             {
                 return 1;
             }
